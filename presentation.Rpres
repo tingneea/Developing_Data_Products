@@ -1,0 +1,46 @@
+Pitch Presentation
+========================================================
+author: Prepared by Am Ting Nee
+date: 13th July 2016
+autosize: true
+font-family: 'Trebuchet MS'
+
+
+Background
+========================================================
+## Personal Loan calculator
+
+1. This is the personal loan calculator that helps the borrowers to calculate the monthly repayment using the latest interest rate provided by bank.
+2. Borrowers can decide the loan amount according to the personal needs.
+
+
+Variables Description
+========================================================
+
+1. Market Interst Rate offered by Bank
+2. Total Amount to Loan from Bank 
+3. Loan Tenure that purcharser is willing to serve
+4. Monthly Repayment to determine the affordability of purchaser to pay per month. 
+5. Total interest charge according to the loan amount
+
+
+Relationship Among variables
+========================================================
+
+1. An user input variables describe on slides 2. 
+2. Monthly Repayment, Total Interest to Pay, and Total Payment will change accordingly to variables that being submitted by an user. 
+
+
+Target User
+========================================================
+1. Anyone who has interest in applying the personal loan
+2. Banker or Credit Officer 
+
+
+Summary
+========================================================
+
+This application gives the following information of Personal Loan Calculator:
+- Monthly Repayment, Total Interest to Pay, and Total Payment for the tenure, interest rate, and loan amount that a purchaser borrow from bank.
+
+- Relationship among the define variables.
